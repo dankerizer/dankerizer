@@ -1,16 +1,40 @@
-### Hi there 👋
 
-<!--
-**dankerizer/dankerizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! 👋 
 
-Here are some ideas to get you started:
+I'm Hadie. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="300" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
+
+I'm building products and stuff that I think are missing and share them with people! 
+
+❤️ Love Laravel, WordPress and ReactJS
+
+Currently working on:
+- [Theme.id](https://theme.id) - WordPress Theme and Plugin for Small and Medium Enterprise (SME)
+- [Whasap.co](https://whasap.co) - WhatsApp link rotator and link profil bio
+
+More about me [on my personal site](https://www.dankedev.com).
+
+
+</br>
+</br>
+</br>
+<img align="left" width="45%" height="200" src="https://github-readme-stats.vercel.app/api?username=dankerizer&show_icons=true"/>
+<img align="right" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=dankerizer"/>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dankerizer&margin-w=20&margin-h=40&row=1&column=8)](https://github.com/LiveDuo)
+
+</br>
+
+![](https://komarev.com/ghpvc/?username=dankerizer&color=2188ff)
