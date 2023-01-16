@@ -10,6 +10,8 @@ I'm building products and stuff that I think are missing and share them with peo
 ❤️ Love Laravel, WordPress and ReactJS
 
 Currently working on:
+- [Dankedev Academy](https://www.dankedev.com) - Web Developer Academy for Newbie (Indonesian Language)
+
 - [Theme.id](https://theme.id) - WordPress Theme and Plugin for Small and Medium Enterprise (SME)
 - [Whasap.co](https://whasap.co) - WhatsApp link rotator and link profil bio
 
