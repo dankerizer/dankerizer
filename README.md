@@ -12,11 +12,11 @@ I'm building products and stuff that I think are missing and share them with peo
 ### Currently working on:
 - [Dankedev Academy](https://www.dankedev.com) - Web Developer Academy for Newbie (Indonesian Language)
 - [Theme.id](https://theme.id) - WordPress Theme and Plugin for Small and Medium Enterprise (SME)
-- [Whasap.co](https://whasap.co) - WhatsApp link rotator and link profil bio
+- [Pixel UI](https://pixelui.dev) - Open Source - Reusable UI components and responsive block for Svelte with Tailwind
 
 ### Tools and device i use:
 - MacBook
-- VS Code
+- VS Code and WebStorm
 - Postico 2
 - Insomnia
 - Firefox
@@ -34,7 +34,6 @@ More about me [on my personal site](https://www.dankedev.com).
 </br>
 </br>
 <img align="left" width="45%" height="200" src="https://github-readme-stats.vercel.app/api?username=dankerizer&show_icons=true"/>
-<img align="right" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=dankerizer"/>
 
 </br>
 </br>
@@ -47,8 +46,5 @@ More about me [on my personal site](https://www.dankedev.com).
 </br>
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dankerizer&margin-w=20&margin-h=40&row=1&column=8)](https://github.com/LiveDuo)
-
-</br>
 
 ![](https://komarev.com/ghpvc/?username=dankerizer&color=2188ff)
