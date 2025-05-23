@@ -7,7 +7,7 @@ I'm **Muhamad Syamsul Hadi** as known as _Hadie Danker_ .
 
 I'm building products and stuff that I think are missing and share them with people! 
 
-❤️ Love Laravel, WordPress and ReactJS with NextJs
+❤️ Love Laravel, WordPress and ReactJS with NextJs now Svelte
 
 ### Currently working on:
 - [Dankedev Academy](https://www.dankedev.com) - Web Developer Academy for Newbie (Indonesian Language)
