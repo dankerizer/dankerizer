@@ -13,17 +13,27 @@ I'm building products and stuff that I think are missing and share them with peo
 - [Dankedev Academy](https://www.dankedev.com) - Web Developer Academy for Newbie (Indonesian Language)
 - [Theme.id](https://theme.id) - WordPress Theme and Plugin for Small and Medium Enterprise (SME)
 - [Pixel UI](https://pixelui.dev) - Open Source - Reusable UI components and responsive block for Svelte with Tailwind
+- [Mahir](https://mahir.dev) - Beginner guide to frontend developer (id)
 
 ### Tools and device i use:
-- MacBook
+- MacBook and Mac Mini
+- iPad 3 (very old)
 - VS Code and WebStorm
-- Postico 2
-- Insomnia
+- Postico 2/Sequel Ace
+- Postmant/Insomnia
 - Firefox
 - Termius
-- iTerm
-- Laravel Valet
-- pnpm
+- warp
+- Laravel Herd
+- Cyberduck
+- pnpm/yarn
+- Coffe
+
+### Not related with coding activity
+- figma
+- capcut
+- AI
+- 
 
 
 More about me [on my personal site](https://www.dankedev.com).
