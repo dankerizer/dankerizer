@@ -1,7 +1,7 @@
 
 Hey! 👋 
 
-I'm **Muhamad Syamsul Hadi** as known as _Hadie_ . 
+I'm **Muhamad Syamsul Hadi** as known as _Hadie Danker_ . 
 
 <img align="right" width="300" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
@@ -33,7 +33,7 @@ I'm building products and stuff that I think are missing and share them with peo
 - figma
 - capcut
 - AI
-- 
+- Simplenote & Keep
 
 
 More about me [on my personal site](https://www.dankedev.com).
